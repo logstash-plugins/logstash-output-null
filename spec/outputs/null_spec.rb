@@ -1,7 +1,7 @@
 # encoding: utf-8
+require "logstash/devutils/rspec/spec_helper"
 require "logstash/outputs/null"
 require "logstash/event"
-require "logstash/devutils/rspec/spec_helper"
 
 describe LogStash::Outputs::Null do
   context "#register" do
