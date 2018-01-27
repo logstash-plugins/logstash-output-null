@@ -27,7 +27,7 @@ performance.
 ==== Null Output Configuration Options
 
 There are no special configuration options for this plugin,
-but it does support the <<{version}-plugins-{type}s-{plugin}-common-options>>.
+but it does support the <<plugins-{type}s-{plugin}-common-options>>.
 
 [id="plugins-{type}s-{plugin}-common-options"]
 include::{include_path}/{type}.asciidoc[]
