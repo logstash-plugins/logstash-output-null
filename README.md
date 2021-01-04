@@ -1,6 +1,6 @@
 # Logstash Plugin
 
-[![Travis Build Status](https://travis-ci.org/logstash-plugins/logstash-output-null.svg)](https://travis-ci.org/logstash-plugins/logstash-output-null)
+[![Travis Build Status](https://travis-ci.com/logstash-plugins/logstash-output-null.svg)](https://travis-ci.com/logstash-plugins/logstash-output-null)
 
 This is a plugin for [Logstash](https://github.com/elastic/logstash).
 
